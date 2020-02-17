@@ -1,0 +1,38 @@
+/*
+suggested color pack:
+875f1c
+ab8222
+c19725
+d5ac2a
+e6bc2d
+ebc44c
+f0ce6a
+f6dc93
+fbe9bd
+fef6e4
+*/
+
+
+body{
+    background-color: #f6dc93; 
+}
+
+.navbar {
+    background-color: #ab8222;
+    border: solid #875f1c;
+}
+
+.jumbotron {
+    background-color: #f6dc93; 
+    padding: 25px;
+}
+
+.header-card-container {
+    background-color: #f6dc93; 
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
