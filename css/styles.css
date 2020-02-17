@@ -14,17 +14,17 @@ fef6e4
 
 
 body{
-    background-color: #f6dc93; 
+    background-color: #D8D8D8; 
 }
 
 .navbar {
-    background-color: #ab8222;
-    border: solid #875f1c;
+    background-color: #BDBDBD;
 }
 
 .jumbotron {
-    background-color: #f6dc93; 
-    padding: 25px;
+    background-color: #D8D8D8; 
+    padding: 0px;
+    margin:0;
 }
 
 .header-card-container {
@@ -33,6 +33,11 @@ body{
 
 .row-content {
     padding: 50px 0;
-    border-bottom: 1px ridge;
     min-height: 200px;
+}
+
+.footer-container {
+    background-color: #BDBDBD;
+    color:balck;
+    margin: 50px;
 }
