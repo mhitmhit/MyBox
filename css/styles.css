@@ -1,18 +1,3 @@
-/*
-suggested color pack:
-875f1c
-ab8222
-c19725
-d5ac2a
-e6bc2d
-ebc44c
-f0ce6a
-f6dc93
-fbe9bd
-fef6e4
-*/
-
-
 body{
     background-color: #D8D8D8; 
 }
@@ -32,7 +17,7 @@ body{
 }
 
 .row-content {
-    padding: 50px 0;
+    padding: 10px 0;
     min-height: 200px;
 }
 
