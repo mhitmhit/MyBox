@@ -1,26 +1,21 @@
 body{
     background-color: #D8D8D8; 
 }
-
 .navbar {
     background-color: #BDBDBD;
 }
-
 .jumbotron {
     background-color: #D8D8D8; 
     padding: 0px;
     margin:0;
 }
-
 .header-card-container {
     background-color: #f6dc93; 
 }
-
 .row-content {
     padding: 10px 0;
     min-height: 200px;
 }
-
 .footer-container {
     background-color: #BDBDBD;
     color:balck;
